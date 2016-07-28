@@ -1,0 +1,17 @@
+c:\users\farrukh malik\documents\visual studio 2010\Projects\Malik Player\Malik Player\bin\Debug\Malik Player.exe
+c:\users\farrukh malik\documents\visual studio 2010\Projects\Malik Player\Malik Player\bin\Debug\Malik Player.pdb
+c:\users\farrukh malik\documents\visual studio 2010\Projects\Malik Player\Malik Player\bin\Debug\Interop.AXVLC.dll
+c:\users\farrukh malik\documents\visual studio 2010\Projects\Malik Player\Malik Player\bin\Debug\AxInterop.AXVLC.dll
+c:\users\farrukh malik\documents\visual studio 2010\Projects\Malik Player\Malik Player\obj\x86\Debug\Interop.AXVLC.dll
+c:\users\farrukh malik\documents\visual studio 2010\Projects\Malik Player\Malik Player\obj\x86\Debug\AxInterop.AXVLC.dll
+c:\users\farrukh malik\documents\visual studio 2010\Projects\Malik Player\Malik Player\obj\x86\Debug\Malik Player.csproj.ResolveComReference.cache
+c:\users\farrukh malik\documents\visual studio 2010\Projects\Malik Player\Malik Player\obj\x86\Debug\Malik_Player.Form1.resources
+c:\users\farrukh malik\documents\visual studio 2010\Projects\Malik Player\Malik Player\obj\x86\Debug\Malik_Player.Properties.Resources.resources
+c:\users\farrukh malik\documents\visual studio 2010\Projects\Malik Player\Malik Player\obj\x86\Debug\Malik Player.csproj.GenerateResource.Cache
+c:\users\farrukh malik\documents\visual studio 2010\Projects\Malik Player\Malik Player\obj\x86\Debug\Malik Player.exe
+c:\users\farrukh malik\documents\visual studio 2010\Projects\Malik Player\Malik Player\obj\x86\Debug\Malik Player.pdb
+C:\Users\Farrukh Malik\Desktop\all desktop file\c sharp\Malik Player\Malik Player\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\Farrukh Malik\Desktop\all desktop file\c sharp\Malik Player\Malik Player\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\Farrukh Malik\Desktop\all desktop file\c sharp\Malik Player\Malik Player\obj\x86\Debug\Malik Player.csproj.ResolveComReference.cache
+C:\Users\Farrukh Malik\Desktop\all desktop file\c sharp\Malik Player\Malik Player\obj\x86\Debug\Malik Player.exe
+C:\Users\Farrukh Malik\Desktop\all desktop file\c sharp\Malik Player\Malik Player\obj\x86\Debug\Malik Player.pdb
